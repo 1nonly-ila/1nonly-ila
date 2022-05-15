@@ -2,7 +2,7 @@
 
 ## 💻 Web & Game Developer
  
- <a href="https://github.com/1nonly-ila" target="_blank"><img align="center" alt="profile views" src="https://komarev.com/ghpvc/?username=1nonly-ila&style=flat-square=white" /></a> <a href="https://discord.com/users/460920273064165407" target="_blank"><img align="center" alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white" /></a> <a href="https://www.instagram.com/mustafa.demirtra/" target="_blank"><img align="center" alt="İnstagram" src="https://img.shields.io/badge/-%C4%B0nstagram-FFFFFF?style=flat-square&logo=instagram&logoColor=black" /></a>
+ <a href="https://github.com/mustafademirtra" target="_blank"><img align="center" alt="profile views" src="https://komarev.com/ghpvc/?username=mustafademirtra&style=flat-square=white" /></a> <a href="https://discord.com/users/460920273064165407" target="_blank"><img align="center" alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white" /></a> <a href="https://www.instagram.com/mustafa.demirtra/" target="_blank"><img align="center" alt="İnstagram" src="https://img.shields.io/badge/-%C4%B0nstagram-FFFFFF?style=flat-square&logo=instagram&logoColor=black" /></a>
 
 <div class="platforms">
       <h2>Platforms</h2>
@@ -41,8 +41,8 @@
 </div>
     
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=1nonly-ila&show_icons=true&hide_title=true&theme=dark&count_private=true&include_all_commits=true&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1nonly-ila&layout=compact&theme=dark&count_private=true&include_all_commits=true&hide_border=true&langs_count=10" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mustafademirtra&show_icons=true&hide_title=true&theme=dark&count_private=true&include_all_commits=true&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafademirtra&layout=compact&theme=dark&count_private=true&include_all_commits=true&hide_border=true&langs_count=10" />
  <br><br>
-    <img src="https://github-profile-trophy.vercel.app/?username=1nonly-ila&theme=nord&row=1" />
+    <img src="https://github-profile-trophy.vercel.app/?username=mustafademirtra&theme=nord&row=1" />
 </p>
