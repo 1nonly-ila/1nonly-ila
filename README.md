@@ -1,8 +1,15 @@
 ### Hi there 👋
 
 ## 💻 Web & Game Developer
- 
+
  <a href="https://github.com/mustafademirtra" target="_blank"><img align="center" alt="profile views" src="https://komarev.com/ghpvc/?username=mustafademirtra&style=flat-square=white" /></a> <a href="https://discord.com/users/460920273064165407" target="_blank"><img align="center" alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white" /></a> <a href="https://www.instagram.com/mustafa.demirtra/" target="_blank"><img align="center" alt="İnstagram" src="https://img.shields.io/badge/-%C4%B0nstagram-FFFFFF?style=flat-square&logo=instagram&logoColor=black" /></a>
+ 
+ <div class="projects">
+      <h2>Projects</h2>
+ <a href="http//www.mustafademirtra.tk/" target="_blank"><img align="center" alt="mustafademirtra" src="https://img.shields.io/badge/-www.mustafademirtra.tk-f8ac18?style=flat-square&logo=mustafademirtra&logoColor=black" /></a>
+ <a href="https://top.gg/bot/811335825316380773" target="_blank"><img align="center" alt="top.gg" src="https://img.shields.io/badge/-Uslu BOT-f8ac18?style=flat-square&logo=topgg&logoColor=black" /></a>
+ <a href="https://www.npmjs.org/package/coffeedb" target="_blank"><img align="center" alt="npmjs" src="https://img.shields.io/badge/-CoffeeDB-FF0000?style=flat-square&logo=npmjs&logoColor=black" /></a>
+ </div>
 
 <div class="platforms">
       <h2>Platforms</h2>
